@@ -5,7 +5,10 @@
     background-color: forestgreen;
     
   }
-  
+  div {
+    width: auto;
+    height: auto; 
+  }
   
 
   
