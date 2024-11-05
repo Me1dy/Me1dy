@@ -8,16 +8,16 @@ div{
     background-color: rgb(255, 164, 194);
 }
 /* customizing link */
-a:link {
+.b:link {
     color:rgb(179, 29, 29);
 }
-a:visited{
+.b:visited{
     color: deeppink;
 }
-a:hover {
+.b:hover {
     color: rgb(243, 220, 255);
 }
-a:active {
+.b:active {
     color: rgb(179, 29, 29);
 }
 
