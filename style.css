@@ -1,24 +1,28 @@
-h1 {
-    color: rgb(179, 29, 29);
-}
+
 body {
     background-color: rgb(255, 221, 232);
 }
 div{
     background-color: rgb(255, 164, 194);
+    color: rgb(179, 29, 29);
+    text-align: center;
 }
 /* customizing link */
 .b:link {
-    color:rgb(179, 29, 29);
+    color: deeppink;
 }
 .b:visited{
     color: deeppink;
 }
 .b:hover {
-    color: rgb(243, 220, 255);
+    color: rgb(251, 196, 255);
 }
 .b:active {
+    color: rgb(255, 32, 32);
+}
+p {
     color: rgb(179, 29, 29);
 }
+
 
 
