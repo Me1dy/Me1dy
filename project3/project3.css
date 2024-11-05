@@ -2,12 +2,12 @@
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     color: white;
-    background-color: forestgreen;
     
   }
-  div {
+  div.whole {
     width: auto;
     height: auto; 
+    background-color: forestgreen;
   }
   
 
