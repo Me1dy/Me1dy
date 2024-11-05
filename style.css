@@ -7,4 +7,15 @@ body {
 header {
     background-color:  rgb(252, 189, 210);
 }
+/* customizing link */
+a:link {
+    color:rgb(179, 29, 29);
+}
+a:hover {
+    color: rgb(255, 227, 241);
+}
+a:active {
+    color: deeppink;
+}
+
 
