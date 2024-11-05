@@ -2,20 +2,23 @@ h1 {
     color: rgb(179, 29, 29);
 }
 body {
-    background-color: rgb(255, 219, 231);
+    background-color: rgb(255, 221, 232);
 }
-header {
-    background-color:  rgb(252, 189, 210);
+div{
+    background-color: rgb(255, 164, 194);
 }
 /* customizing link */
 a:link {
     color:rgb(179, 29, 29);
 }
+a:visited{
+    color: deeppink;
+}
 a:hover {
-    color: rgb(255, 227, 241);
+    color: rgb(243, 220, 255);
 }
 a:active {
-    color: deeppink;
+    color: rgb(179, 29, 29);
 }
 
 
