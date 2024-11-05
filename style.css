@@ -9,29 +9,30 @@ h1 {
     color: rgb(179, 29, 29);
     text-align: center;
 }
-/* customizing link */
-.b:link {
-    color: deeppink;
-}
-.b:visited{
-    color: deeppink;
-}
-.b:hover {
-    color: rgb(251, 196, 255);
-}
-.b:active {
-    color: rgb(255, 32, 32);
-}
-p {
-    color: rgb(179, 29, 29);
-}
-
+/* adding buttons */
 a {
-    border-width: 2px;
+    border-width: 3px;
     border-color: deeppink;
     background-color: rgb(255, 176, 188);
     border-style: double;
-    border-radius: 3px;
+    border-radius: 4px;
+    padding: 2px;
+}
+/* customized link */
+.b:link {
+    color: black;
+}
+.b:visited{
+    color: black;
+}
+.b:hover {
+    color: deeppink;
+}
+.b:active {
+    color: rgb(255, 209, 253);
+}
+p {
+    color: rgb(179, 29, 29);
 }
 
 
