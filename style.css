@@ -26,5 +26,11 @@ p {
     color: rgb(179, 29, 29);
 }
 
+.b {
+    border-color: deeppink;
+    background-color: rgb(255, 176, 188);
+    border-style: double;
+    border-radius: 0vi;
+}
 
 
