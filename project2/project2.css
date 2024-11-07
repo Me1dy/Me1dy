@@ -1,9 +1,8 @@
-div {
-    border: 1px solid black;
-    margin-top: 100px;
-    margin-bottom: 1
-    00px;
-    margin-right: 320px;
-    margin-left: 30px;
-    background-color: #ffc8dd;
-  }
+.header {
+  background-color: rgb(241, 255, 220);
+  color: rgb(161, 187, 135);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-color: rgb(161, 187, 135);
+  border-width: 2px;
+  box-shadow: 2px;
+}
