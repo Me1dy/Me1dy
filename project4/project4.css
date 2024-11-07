@@ -1,5 +1,7 @@
 .header {
     border-width: 3px;
+    border-color: black;
+    border-style: solid;
     box-shadow: 2px;
     font-family: 'Courier New', Courier, monospace;
 }

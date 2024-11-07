@@ -4,5 +4,6 @@
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   border-color: rgb(161, 187, 135);
   border-width: 2px;
+  border-style: double;
   box-shadow: 2px;
 }
