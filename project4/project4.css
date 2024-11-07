@@ -3,6 +3,8 @@
     border-color: black;
     border-style: solid;
     box-shadow: 2px;
+    color: black;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    padding: 5px;
 }
