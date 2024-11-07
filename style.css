@@ -9,13 +9,13 @@ h1 {
     color: rgb(179, 29, 29);
     text-align: center;
 }
-/* adding buttons */
+/* adding button */
 a {
     border-width: 3px;
     border-color: deeppink;
     background-color: rgb(255, 176, 188);
     border-style: solid;
-    border-radius: 20px;
+    border-radius: 10px;
     padding: 5px;
 }
 /* customized link */
