@@ -7,3 +7,7 @@
   border-style: double;
   box-shadow: 2px;
 }
+h2 {
+  color:  rgb(161, 187, 135);
+  font-family: 'Lucida Sans';
+}
