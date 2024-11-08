@@ -8,6 +8,10 @@ div{
 header {
     color: rgb(179, 29, 29);
     align-content: center;
+    padding: 7px;
+    border-width: 2px;
+    border-style: double;
+    border-color:  rgb(179, 29, 29);
 }
 /* adding button */
 a {
