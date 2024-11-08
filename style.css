@@ -8,10 +8,11 @@ div{
     border-width: 2px;
     border-style: double;
     border-color:  rgb(179, 29, 29);
+    align-content: center;
 }
 header {
     color: rgb(179, 29, 29);
-    align-content: center;  
+    
 }
 /* adding button */
 a {
@@ -38,5 +39,7 @@ a:active {
 p {
     color: rgb(179, 29, 29);
 }
-
+.labs {
+    font-size: 27px;
+}
 
