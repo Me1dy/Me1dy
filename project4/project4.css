@@ -5,6 +5,7 @@ body {
 
 
 div.a {
+      
     border-width: 3px;
     border-color: black;
     border-style: solid;
@@ -14,4 +15,12 @@ div.a {
     text-align: center;
     padding: 10px;
     margin: 10px;
+}
+.game-title {
+    font-size: 35px;
+  text-align: center;
+}
+.Profile {
+    width: 100px;
+    height: auto;
 }
