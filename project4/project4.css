@@ -15,9 +15,10 @@ div.a {
     justify-content: center;
 }
 .game-title {
+
     text-align: center;
 }
 .Profile {
-    width: 50px;
+    width: 150px;
     height: auto;
 }
