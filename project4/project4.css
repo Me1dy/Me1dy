@@ -8,7 +8,7 @@ body {
 header {     
     font-size: 30px;
     border-style:hidden;
-    box-shadow: 3px 3px 3px black;
+    box-shadow: 5px 3px 5px black;
     text-shadow: 2px 2px 2px black;
     color: #3f275d;
     font-family: 'Courier New', Courier, monospace;
@@ -30,8 +30,8 @@ h3 {
 
 .instructions {
   text-align: center;
-  border: 1px solid black;
-  box-shadow: 2px 2px 2px #26153b;
+  border-style:hidden;
+  box-shadow: 3px 3px 3px #26153b;
   background-color: #381e59;
   text-align: center;
   height: 50px;
@@ -45,8 +45,8 @@ h3 {
 }
 .easy-level {
   text-align: center;
-  border: 1px solid black;
-  box-shadow: 2px 2px 2px #26153b;
+  border-style:hidden;
+  box-shadow: 3px 3px 3px #26153b;
   background-color: #381e59;
   text-align: center;
   height: 50px;
@@ -60,8 +60,8 @@ h3 {
 }
 .medium-level {
   text-align: center;
-  border: 1px solid black;
-  box-shadow: 2px 2px 2px #26153b;
+  border-style:hidden;
+  box-shadow: 3px 3px 3px #26153b;
   background-color: #381e59;
   text-align: center;
   height: 50px;
@@ -77,7 +77,7 @@ h3 {
 }
 .hard-level {
   text-align: center;
-  border: 1px solid black;
+  border-style:hidden;
   box-shadow: 2px 2px 2px #26153b;
   background-color: #381e59;
   text-align: center;
@@ -91,6 +91,12 @@ h3 {
   height: 700px;
 }
 .easy-images {
-transition: opacity 0.7 ease-in;
+transition: opacity 0.7 ease;
+}
+.medium-images {
+  transition: opacity 0.7 ease;
+}
+.hard-images {
+  transition: opacity 0.7 ease;
 }
 
