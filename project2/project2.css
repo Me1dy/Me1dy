@@ -3,11 +3,15 @@
   color: rgb(161, 187, 135);
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   border-color: rgb(161, 187, 135);
-  border-width: 2px;
-  border-style: double;
-  box-shadow: 2px;
+  border-width: 1px;
+  border-style:groove;
+  box-shadow: 2px 2px 2px rgb(161, 187, 135);
 }
 h2 {
   color:  rgb(161, 187, 135);
   font-family: 'Lucida Sans';
+}
+p {
+ color:rgb(161, 187, 135);
+ 
 }
