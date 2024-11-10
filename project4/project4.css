@@ -1,4 +1,7 @@
 
+.container{
+  background-image: url(background.png);
+}
 header {     
     font-size: 30px;
     border-width: 3px;
@@ -21,9 +24,7 @@ h3 {
     color: Black;
     text-align: center;
 }
-.container{
-  background-image: url(background.png);
-}
+
 .instructions {
   color: Black;
   text-align: center;
