@@ -31,12 +31,13 @@ h3 {
   color: Black;
   text-align: center;
   border: 1px solid black;
+  box-shadow: 2px 2px 2px black;
   background-color: #381e59;
   color: black;
   text-align: center;
   height: 50px;
   overflow: hidden;
-  width: 80%;
+  width: 860px;
   margin: 10px auto;
   transition: height 2.5s ease;
 }
@@ -47,12 +48,13 @@ h3 {
   color: Black;
   text-align: center;
   border: 1px solid black;
+  box-shadow: 2px 2px 2px black;
   background-color: #381e59;
   color: black;
   text-align: center;
   height: 50px;
   overflow: hidden;
-  width: 80%;
+  width: 860px;
   margin: 10px auto;
   transition: height 2.5s ease;
 }
@@ -63,28 +65,32 @@ h3 {
   color: Black;
   text-align: center;
   border: 1px solid black;
+  box-shadow: 2px 2px 2px black;
   background-color: #381e59;
   color: black;
   text-align: center;
   height: 50px;
   overflow: hidden;
-  width: 80%;
+  width: 860px;
   margin: 10px auto;
   transition: height 2.5s ease;
 }
 .medium-level:hover {
   height: 700px;
+  border-color: black;
+  border-width: 2px;
 }
 .hard-level {
   color: Black;
   text-align: center;
   border: 1px solid black;
+  box-shadow: 2px 2px 2px black;
   background-color: #381e59;
   color: black;
   text-align: center;
   height: 50px;
   overflow: hidden;
-  width: 80%;
+  width: 860px;
   margin: 10px auto;
   transition: height 2.5s ease;
 }
