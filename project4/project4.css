@@ -1,6 +1,4 @@
-body {
-    background-color: #381e59;
-}
+
 header {     
     font-size: 30px;
     border-width: 3px;
@@ -22,6 +20,9 @@ header {
 h3 {
     color: Black;
     text-align: center;
+}
+.container{
+  background-image: url(background.png);
 }
 .instructions {
   color: Black;
