@@ -48,10 +48,10 @@ h3 {
   text-align: center;
   height: 50px;
   overflow: hidden;
-  width: 500px;
+  width: 90%;
   margin: 10px auto;
   transition: height 2.5s ease;
 }
 .easy-level:hover {
-    height: 700px;
-  }
+  height: 700px;
+}

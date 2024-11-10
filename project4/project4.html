@@ -9,7 +9,6 @@
 </head>
 <body>
     <header>
-    <div>
         <div class="game-title">
         <h1> Spot the Difference Game</h1>
         <h5> Mei Acosta
@@ -18,15 +17,14 @@
         <div> 
           <img class="Profile" src="PFP.png" alt="Profile"> 
         </div>
-    </div>
     </header>
 
-<div class="instuctions"> 
+<div class="instructions"> 
         <h3>Instructions</h3>
     <p> 
         <br>Welcome to Spot the Difference!
         <br>There are three levels in this game:Easy, Medium, and Hard.
-        <br>When you hover over the image, it will change into another image!
+        <br>When you hover over the image, it will change into another image image!
         <br>Now, spot the differences between the images!
     </p>
 </div>
@@ -36,8 +34,9 @@
         <br>You have 7 seconds to look at the image before hovering over it.
         <br>Now hover over it to see the next image... 5.. 4.. 3.. 2.. 1..
         <br>Spot the difference!
-        <img class="easy-images" src="easybefore.png" onmouseover="easyafter.png"
-         onmouseout="easybefore.png">
+        <img class="easy-images" src="easybefore.png" 
+         onmouseover="this.src='easyafter.png';"
+         onmouseout="this.src='easybefore.png';">
 
     </p>
 </div>
