@@ -4,11 +4,16 @@ body {
   background-attachment: fixed;
   font-family: 'Courier New', Courier, monospace;
 }
+body:hover {
+  color: #3f275d;
+  
+}
 header {     
     font-size: 30px;
     border-style:hidden;
-    box-shadow: 2px 2px 2px black;
-    color: black;
+    box-shadow: 3px 3px 3px black;
+    text-shadow: 1px black;
+    color: #3f275d;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     padding: 5px;
@@ -94,5 +99,8 @@ h3 {
 }
 .hard-level:hover {
   height: 700px;
+}
+.easy-images {
+transition: opacity 0.7 ease-in;
 }
 
