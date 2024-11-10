@@ -1,6 +1,7 @@
 
-.container{
+body {
   background-image: url(background.png);
+  background-attachment: fixed;
 }
 header {     
     font-size: 30px;
