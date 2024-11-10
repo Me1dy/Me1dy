@@ -38,7 +38,7 @@ h3 {
   transition: height 2.5s ease;
 }
 .instructions:hover {
-  height: auto;
+  height: 200px;
 }
 .easy-level {
   color: Black;
@@ -54,7 +54,7 @@ h3 {
   transition: height 2.5s ease;
 }
 .easy-level:hover {
-  height: auto;
+  height: 700px;
 }
 .medium-level {
   color: Black;
@@ -70,5 +70,5 @@ h3 {
   transition: height 2.5s ease;
 }
 .medium-level:hover {
-  height: auto;
+  height: 700px;
 }
