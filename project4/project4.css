@@ -13,7 +13,7 @@ header {
     padding: 5px;
     margin: 5px;
     display:flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 .Profile {
     width: 150px;
@@ -23,14 +23,35 @@ h3 {
     color: Black;
     text-align: center;
 }
-.instruction {
+.instructions {
+  color: Black;
+  text-align: center;
   border: 1px solid black;
   background-color: #381e59;
   color: black;
   text-align: center;
   height: 50px;
   overflow: hidden;
-  width: 80%;
+  width: 90%;
   margin: 10px auto;
-  transition: height 0.5s ease;
+  transition: height 2.5s ease;
 }
+.instructions:hover {
+  height: 700px;
+}
+.easy-level {
+  color: Black;
+  text-align: center;
+  border: 1px solid black;
+  background-color: #381e59;
+  color: black;
+  text-align: center;
+  height: 50px;
+  overflow: hidden;
+  width: 500px;
+  margin: 10px auto;
+  transition: height 2.5s ease;
+}
+.easy-level:hover {
+    height: 700px;
+  }
