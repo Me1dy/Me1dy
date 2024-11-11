@@ -1,4 +1,16 @@
 
+a {
+  color:#381e59;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: -1px 0 black, 0 2px black, 3px 0 black, 0 -1px black;
+  text-align: center;
+}
+a:hover {
+  color: #7958a3;
+}
+a:active {
+  color: rgb(255, 209, 253);
+}
 body {
   background-image: url(background.png);
   background-attachment: fixed;
@@ -8,7 +20,8 @@ body {
 header {     
     font-size: 30px;
     border-style:hidden;
-    box-shadow: 5px 3px 5px black;
+    border: 1px black solid;
+    box-shadow: 6px 6px 6px black;
     text-shadow: 2px 2px 2px black;
     color: #3f275d;
     font-family: 'Courier New', Courier, monospace;
@@ -22,12 +35,12 @@ header {
     width: 150px;
     height: auto;
 }
+
 h3 {
   color: #381e59; 
   text-shadow: -1px 0 black, 0 2px black, 3px 0 black, 0 -1px black;
-    text-align: center;
+  text-align: center;
 }
-
 .instructions {
   text-align: center;
   border-style:hidden;

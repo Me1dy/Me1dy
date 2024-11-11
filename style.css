@@ -8,7 +8,7 @@ div{
     border-width: 2px;
     border-style: double;
     border-color:  rgb(179, 29, 29);
-    align-content: center;
+    text-align: center;
 }
 h1 {
     font-size: 35px;
