@@ -18,9 +18,9 @@ header {
     text-align: center;
     padding: 5px;
     margin: 5px;
-    display:flex;
-
-    
+}
+.work {
+    width: 70%;
 }
 /* adding button */
 a {
