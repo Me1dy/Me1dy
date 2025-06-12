@@ -23,6 +23,15 @@ header {
     
 }
 /* adding button */
+a {
+    border-color: #ffecf3;
+    border-width: 3px;
+    border-radius: 2px;
+    margin: 3px;
+    padding: 4px;
+    background-color: black;
+    
+}
 /* customized link */
 
 p {
