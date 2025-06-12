@@ -14,13 +14,21 @@ h1 {
 header {
     background-color: #000000;
     color: #ffcee1;
+    border-color: #ffecf3;
+    border-width: 4px;
+    border-radius: 2px;
     justify-content: center;
     text-align: center;
-    padding: 5px;
+    padding: 10px;
     margin: 5px;
+}
+.stuff {
+    display: flex;
+    flex-direction: row;
 }
 .work {
     width: 70%;
+    text-align:center;
 }
 /* adding button */
 a {
@@ -32,10 +40,9 @@ a {
     background-color: black;
     
 }
-/* customized link */
 
-p {
-    color: rgb(179, 29, 29);
+footer {
+    background-color: #000000;
 }
 
 
